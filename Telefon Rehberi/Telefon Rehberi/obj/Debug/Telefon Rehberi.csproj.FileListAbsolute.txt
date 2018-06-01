@@ -1,0 +1,12 @@
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe.config
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.pdb
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csprojResolveAssemblyReference.cache
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Form1.resources
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.KayitEkleme.resources
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Properties.Resources.resources
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.GenerateResource.Cache
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.exe
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.pdb
+C:\Users\MuhammedErdinc\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.KayitListeleme.resources
